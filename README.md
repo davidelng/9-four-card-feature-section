@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/davidelng/9-four-card-feature-section)
+- [Live URL](https://davidelng.github.io/9-four-card-feature-section/)
 
 ## My process
 
